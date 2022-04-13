@@ -3,7 +3,7 @@ This repository contains of the three project that helps the new beginners to un
 project 1: it has two classes that are **Circle.java** which is the base class and **Demo.java** is the main class 
 this is user defined program so ask the user what then want to calculate area,circumferenceand gives the result
 
-The other project is about the employee which is anabstract class and has some c=sub classes
+The other project is about the employee which is anabstract class and has some sub classes
 partTime
 fullTime
 intern
